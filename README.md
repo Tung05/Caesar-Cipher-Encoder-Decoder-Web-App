@@ -14,3 +14,7 @@ This project is a simple web application that implements a **Caesar Cipher** for
 - **HTML**: For structuring the web application.
 - **CSS**: For styling the interface and ensuring a responsive design.
 - **JavaScript**: For implementing the Caesar Cipher algorithm and real-time interactivity.
+
+## Screenshot
+![Encoder-Decoder-WebApp](https://github.com/user-attachments/assets/4468a44e-86ce-47d9-957d-0c4fc0dce5da)
+
